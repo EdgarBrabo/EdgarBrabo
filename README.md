@@ -2,7 +2,7 @@
 
 Eu sou Edgar Brabo
 
-Desenvolvedor iciante
+Desenvolvedor iniciante
 
 Cursando Análise e Desenvolvimento de Sistemas
 
