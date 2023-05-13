@@ -1,6 +1,6 @@
 ### 👨‍🦲 Olá!
 
-Eu sou Edgar Brabo
+Eu sou Edgar
 
 Desenvolvedor iniciante
 
@@ -10,7 +10,7 @@ Hoje além da graduação tambem estudo desenvolvimento Fullstack e Redes.
 
 ### 👨‍🦲 Hi!
 
-I'm Edgar Brabo
+I'm Edgar
 
 novice developer
 
