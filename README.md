@@ -6,7 +6,7 @@ Desenvolvedor iniciante
 
 Cursando Análise e Desenvolvimento de Sistemas
 
-Hoje além da graduação tambem estudo desenvolvimento Fullstack e Redes.
+Hoje, além da graduação, também estudo e sou certificado como Cloud Practitioner AWS e Iniciei meu curso de DevOps na AdaTech.
 
 ### 👨‍🦲 Hi!
 
@@ -16,7 +16,7 @@ novice developer
 
 Studying Systems Analysis and Development
 
-Today in addition to graduation also study fullstack development and Networks.
+Today, in addition to my degree, I also study and am certified as an AWS Cloud Practitioner and started my DevOps course at AdaTech.
 
 ##
 
