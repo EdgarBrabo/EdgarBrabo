@@ -4,21 +4,11 @@ Eu sou Edgar
 
 Desenvolvedor iniciante
 
-Cursando Análise e Desenvolvimento de Sistemas
+Formado em Análise e Desenvolvimento de Sistemas
 
-Hoje, além da graduação, também estudo e sou certificado como Cloud Practitioner AWS e Iniciei meu curso de DevOps na AdaTech.
+Hoje também estudo e sou certificado como Cloud Architect AWS e terminei meu curso de DevOps na AdaTech.
 
-### 👨‍🦲 Hi!
-
-I'm Edgar
-
-novice developer
-
-Studying Systems Analysis and Development
-
-Today, in addition to my degree, I also study and am certified as an AWS Cloud Practitioner and started my DevOps course at AdaTech.
-
-##
+Tenho um projeto de SaaS rodando em Cloud que ainda esta em fase de desenvolvimento, nas tenho grandes espectativas nesse projeto.
 
 <div>
   
