@@ -10,12 +10,7 @@ Hoje também estudo e sou certificado como Cloud Architect AWS e terminei meu cu
 
 Tenho um projeto de SaaS rodando em Cloud que ainda esta em fase de desenvolvimento, nas tenho grandes espectativas nesse projeto.
 
-<div>
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgarBrabo&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarBrabo&layout=compact&theme=dark"/>
-  
-</div>
+
 
 ##
 
