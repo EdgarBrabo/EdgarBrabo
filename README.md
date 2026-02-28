@@ -10,7 +10,7 @@ Hoje também estudo e sou certificado como Cloud Architect AWS e terminei meu cu
 
 Tenho um projeto de SaaS rodando em Cloud que ainda esta em fase de desenvolvimento, nas tenho grandes espectativas nesse projeto.
 
-
+![Texto alternativo]([https://site.com/imagem.png](https://unicast.com.br/posts/exam-prep-aws-certified-solutions-architect-associate/))
 
 ##
 
