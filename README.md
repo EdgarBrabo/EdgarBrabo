@@ -12,9 +12,9 @@ Hoje também estudo e sou certificado como Cloud Architect AWS e terminei meu cu
 
 Tenho um projeto de SaaS rodando em Cloud que ainda esta em fase de desenvolvimento, nas tenho grandes espectativas nesse projeto.
 
-<img src="https://github.com/user-attachments/assets/f99717ef-ac2b-42f9-9796-8993cf7a13ea" width="120" />
-<img src="https://github.com/user-attachments/assets/78044d2d-3be7-425f-8711-60217a5ecdc5" width="120" />
-<img src="https://github.com/user-attachments/assets/a59e2f5f-0d92-4cfa-949e-d73b1eca5684" width="120" />
+<img src="https://github.com/user-attachments/assets/f99717ef-ac2b-42f9-9796-8993cf7a13ea" width="100" />
+<img src="https://github.com/user-attachments/assets/78044d2d-3be7-425f-8711-60217a5ecdc5" width="100" />
+<img src="https://github.com/user-attachments/assets/a59e2f5f-0d92-4cfa-949e-d73b1eca5684" width="100" />
 
 
 
