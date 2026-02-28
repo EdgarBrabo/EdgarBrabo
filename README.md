@@ -4,6 +4,8 @@ Eu sou Edgar
 
 Desenvolvedor iniciante
 
+Trabalho no time da TOTVS Cloud
+
 Formado em Análise e Desenvolvimento de Sistemas
 
 Hoje também estudo e sou certificado como Cloud Architect AWS e terminei meu curso de DevOps na AdaTech.
